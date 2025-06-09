@@ -118,10 +118,10 @@ export default function BirthdayCelebration() {
       >
         <div className="text-center">
           <p className="text-lg text-purple-700 mb-4">
-          May every wish you make today come true. You deserve the world, and I’ll always be here to remind you of that.
+          It's not only your 18th birtday, but it's also my 574th day of loving you, Mwah 💋
           </p>
           <div className="flex justify-center items-center gap-2">
-            <p className="text-pink-600 font-medium">Let’s always stay like this... together, forever 🫶</p>
+            <p className="text-pink-600 font-medium">You know, I don’t need a special day to worship you, but if the world insists on celebrating the day you were born, I’ll take it. Because it gave me you. </p>
           </div>
         </div>
       </motion.div>
