@@ -5,7 +5,7 @@ import { motion } from "framer-motion"
 import { Heart, Gift, Cake, Star } from "lucide-react"
 
 function calculateTimeLeft(targetDate) {
-  const difference = targetDate - new Date()
+  const difference = targetDate - new Date(2025, 10, 06)
   let timeLeft = {}
 
   if (difference > 0) {
