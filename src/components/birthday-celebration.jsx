@@ -88,9 +88,9 @@ export default function BirthdayCelebration() {
             >
               <div className="text-center">
                 <p className="text-purple-700 mb-2">
-                Just wanted to remind you—you're my favorite person. My days are better, smiles are wider, and life is sweeter because of you.
+                It's not only your 18th birtday, but it's also my 574th day of loving you, Puchi 😘(friendly kissi)
                 </p>
-                <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖</p>
+                <p className="text-pink-600 font-medium">You know, I don’t need a special day to worship you, but if the world insists on celebrating the day you were born, I’ll take it. Because it gave me you.</p>
                 <div className="flex justify-center">
                   <motion.div
                     animate={{
@@ -118,10 +118,10 @@ export default function BirthdayCelebration() {
       >
         <div className="text-center">
           <p className="text-lg text-purple-700 mb-4">
-          It's not only your 18th birtday, but it's also my 574th day of loving you, Mwah 💋
+          Just wanted to remind you—you're my favorite person. My days are better, smiles are wider, and life is sweeter because of you.
           </p>
           <div className="flex justify-center items-center gap-2">
-            <p className="text-pink-600 font-medium">You know, I don’t need a special day to worship you, but if the world insists on celebrating the day you were born, I’ll take it. Because it gave me you. </p>
+            <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖 </p>
           </div>
         </div>
       </motion.div>
